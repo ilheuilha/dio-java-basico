@@ -12,6 +12,7 @@ public class TiposVariaveis{
      */
 
      short numero = 1;
+     
 
      System.out.println(numero);
 
